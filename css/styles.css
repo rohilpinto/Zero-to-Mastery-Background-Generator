@@ -23,5 +23,19 @@ h3 {
     text-align: center;
     text-transform: none;
     letter-spacing: 0.01em;
+    margin-top: 60px;
+}
 
+input {
+    border: none;
+    background: rgba( 0, 0, 0, 0.5);
+    padding: 15px 20px;
+    margin-top: 25px ;
+}
+button {
+    border: none;
+    padding: 15px 20px;
+    border-radius: 20px;
+    margin-top: 10px;
+    background-color: #f7f7f7;
 }
